@@ -3,6 +3,7 @@ title: "Tutorial"
 date: 03-10-2022
 draft: false
 pin: true
+summary: "A tutorial for the software WEKA"
 ---
 
 ### About
