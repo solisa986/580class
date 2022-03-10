@@ -1,0 +1,4 @@
+baseURL = 'https://solisa986.github.io/580hugo/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "github-style" 
