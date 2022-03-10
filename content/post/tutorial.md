@@ -6,6 +6,16 @@ pin: true
 summary: "A tutorial for the software WEKA"
 ---
 
+# Table of Contents
+1. [About](#about)
+2. [Features](#features)
+3. [Obtaining the resource](#obtaining-the-resource)
+4. [Setup](#setup)
+5. [Execution](#execution)
+6. [Helpful resource](#helpful-resources)
+
+---
+
 ### About
 
 - The software resource that I am looking into is 'WEKA'. [WEKA](https://www.weka.io/) (Waikato Environment for Knowledge Analysis) is a software that contains a collection of different algorithms specific to data mining tasks and tools. These tools are able to be used for data preparation, regression, association rules mining, visualization, clustering, and classification. Given that my topic involves an Economic study of some kind, then this data mining tool will be useful for creating visuals of the significant portions of my data, with the neural networks segment of this tool potentially being able to identify the significance of the data as well.
