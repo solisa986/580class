@@ -48,6 +48,8 @@ summary: "A tutorial for the software WEKA"
 - Once your software is installed, you should be ready to use it! On the GUI opening message for WEKA, there are different applications options listed:
 	- **Simple CLI**, which is a WEKA shell that contains command line, output, and access to classes such as filters and clusters. **Clicking on this option will generate the following:**
 
+	{{< figure src="img/cli.jpg" title="Simple CLI" >}}
+
 	![Simple Cli](img/cli.jpg)
 
 	- **Explorer**, which contains all the options needed for preprocessing before and after applying algorithms to the data set.
