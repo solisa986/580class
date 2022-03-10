@@ -1,4 +1,4 @@
-baseURL = 'https://data-mining.netlify.app/'
+baseURL = 'https://github.com/solisa986/580class'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "github-style"
@@ -16,6 +16,7 @@ pygmentsUseClasses = true
   rss = true
   lastmod = true
   favicon = "/images/github.png"
+  avatar = "https://data-mining.netlify.app/images/avatar.png"
   location = "United States"
   userStatusEmoji = "😀"
   enableGitalk = true
