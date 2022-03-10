@@ -48,29 +48,27 @@ summary: "A tutorial for the software WEKA"
 - Once your software is installed, you should be ready to use it! On the GUI opening message for WEKA, there are different applications options listed:
 	- **Simple CLI**, which is a WEKA shell that contains command line, output, and access to classes such as filters and clusters. **Clicking on this option will generate the following:**
 
-	{{< figure src="img/cli.jpg" title="Simple CLI" >}}
-
-	![Simple Cli](img/cli.jpg)
+	![Simple Cli](/img/cli.jpg)
 
 	- **Explorer**, which contains all the options needed for preprocessing before and after applying algorithms to the data set.
 	**Clicking on this option will generate the following:**
 
-	![Explorer](img/explorer.jpg)
+	![Explorer](/img/explorer.jpg)
 
 	- **Experimenter**, which is what allows users to run, create, and even modify different components of an experiment on a data set.
 	**Clicking on this option will generate the following:**
 
-	![Experimenter](img/experimenter.jpg)
+	![Experimenter](/img/experimenter.jpg)
 
 	- **Knowledge Flow**, which is the WEKA algorithms shown in a graphical representation. Users can create different workflows to analyze data sets by selecting different components.
 	**Clicking on this option will generate the following:**
 
-	![Knowledge Flow](img/knowledge-flow.jpg)
+	![Knowledge Flow](/img/knowledge-flow.jpg)
 
 	- **Workbench**, which is where all of the GUI's are stored.
 	**Clicking on this option will generate the following:**
 
-	![Workbench](img/workbench.jpg)
+	![Workbench](/img/workbench.jpg)
 
 - Once a user decides on the different type of data mining tools it wants to implement their data set, they can go ahead and get started with this software!
 
