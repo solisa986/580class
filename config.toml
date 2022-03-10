@@ -16,7 +16,6 @@ pygmentsUseClasses = true
   rss = true
   lastmod = true
   favicon = "/images/github.png"
-  avatar = "images/avatar.jpg"
   location = "United States"
   userStatusEmoji = "😀"
   enableGitalk = true
