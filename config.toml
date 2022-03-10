@@ -2,3 +2,44 @@ baseURL = 'https://data-mining.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Adriana Solis"
+  description = "A website to put my 580 assignments"
+  github = "solisa987"
+  email = "solisa@allegheny.edu"
+  url = "https://adriana-solis.netlify.app/"
+  keywords = "blog, comp, junio"
+  rss = true
+  lastmod = true
+  favicon = "/public/images/github.png"
+  location = "United States"
+  userStatusEmoji = "😀"
+  enableGitalk = true
+
+  [params.gitalk]
+    clientID = "Your client ID" # Your client ID
+    clientSecret = "Your client secret" # Your client secret
+    repo = "solisa986" # 您的博客的github地址Repository name，例如：xxxx.github.io
+    owner = "ventusoon" # 您的GitHub ID
+    admin = "ventusoon" # 您的GitHub ID
+    id = "location.pathname" # 文章页面的链接地址就是ID
+    labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
+    perPage = 15 # Pagination size, with maximum 100.
+    pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
+    createIssueManually = true # 设置为true，如果是管理员登录，会自动创建issue，如果是false，需要管理员手动添加第一个评论(issue)
+    distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.
+    proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
+  [[params.links]]
+    title = "Link"
+    href = "https://github.com/solisa986/580class"
+  [[params.links]]
+    title = "Link2"
+    href = "https://github.com/solisa986/580class"
+    icon = "/public/images/avatar.jpg"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
