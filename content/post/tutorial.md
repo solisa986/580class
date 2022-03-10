@@ -1,6 +1,6 @@
 ---
 title: "Tutorial"
-date: 03-10-2022
+date: 2022-03-10T04:21:18-05:00
 draft: false
 pin: true
 summary: "A tutorial for the software WEKA"
