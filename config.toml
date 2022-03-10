@@ -1,6 +1,6 @@
 baseURL = 'https://data-mining.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Adriana Solis'
 theme = "github-style"
 googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   author = "Adriana Solis"
-  description = "A website to put my 580 assignments"
+  description = "A summary of all my deliverables for CMPSC580"
   github = "@solisa986"
   email = "solisa@allegheny.edu"
   url = "https://adriana-solis.netlify.app/"
