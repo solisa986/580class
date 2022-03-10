@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/solisa986/580class'
+baseURL = 'https://data-mining.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "github-style"
