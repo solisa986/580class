@@ -5,7 +5,6 @@ draft: false
 pin: true
 summary: "Introduction into my Research"
 ---
-<meta property="og:title" content="Introduction" />
 
 ### Research Interest
 
