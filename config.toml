@@ -6,7 +6,6 @@ googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 lastmod = true
-enableGitalk = true
 
 [params]
   author = "Adriana Solis"
@@ -21,21 +20,6 @@ enableGitalk = true
   avatar = "https://data-mining.netlify.app/images/avatar.png"
   location = "United States"
   userStatusEmoji = "😀"
-
-enableGitalk = true
-
-  [params.gitalk]
-    clientID = "1f327945ca0cb223151f" 
-    clientSecret = "a4af98ffacfeb4adceae443d56158a6656547285" 
-    repo = "repo"
-    owner = "solisa986"
-    admin = "solisa986"
-    id = "location.pathname"
-    labels = "gitalk"
-    perPage = 30
-    pagerDirection = "last"
-    createIssueManually = true
-    distractionFreeMode = false
 
   # [[params.links]]
     # title = "Link"
