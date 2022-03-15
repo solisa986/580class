@@ -6,7 +6,13 @@ pin: true
 summary: "A tutorial for the software WEKA"
 ---
 
-# Table of Contents
+# Summary
+
+This page contains the walkthrough assignment.
+
+---
+
+## Table of Contents
 1. [About](#about)
 2. [Features](#features)
 3. [Obtaining the resource](#obtaining-the-resource)
