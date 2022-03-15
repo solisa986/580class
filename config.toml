@@ -5,6 +5,8 @@ theme = "github-style"
 googleAnalytics = "UA-123456-789"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+lastmod = true
+enableGitalk = true
 
 [params]
   author = "Adriana Solis"
@@ -19,21 +21,22 @@ pygmentsUseClasses = true
   avatar = "https://data-mining.netlify.app/images/avatar.png"
   location = "United States"
   userStatusEmoji = "😀"
-  enableGitalk = true
+
+enableGitalk = true
 
   [params.gitalk]
-    clientID = "Your client ID" # Your client ID
-    clientSecret = "Your client secret" # Your client secret
-    repo = "solisa986" # 您的博客的github地址Repository name，例如：xxxx.github.io
-    owner = "solisa986" # 您的GitHub ID
-    admin = "solisa986" # 您的GitHub ID
-    id = "location.pathname" # 文章页面的链接地址就是ID
-    labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
-    perPage = 15 # Pagination size, with maximum 100.
-    pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
-    createIssueManually = true # 设置为true，如果是管理员登录，会自动创建issue，如果是false，需要管理员手动添加第一个评论(issue)
-    distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) submit comment.
-    proxy = "https://github.com/login/oauth/access_token" # 可以自行添加反向代理
+    clientID = "1f327945ca0cb223151f" 
+    clientSecret = "a4af98ffacfeb4adceae443d56158a6656547285" 
+    repo = "repo"
+    owner = "solisa986"
+    admin = "solisa986"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 30
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
   # [[params.links]]
     # title = "Link"
     # href = "https://data-mining.netlify.app/"
