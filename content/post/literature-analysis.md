@@ -80,4 +80,3 @@ The goal of this article is to use a data mining tool called RapidMiner to compa
 The research paper used large amounts of data to provide a prediction on suicide rates in different countries. The research process for these suicide rates involved studying the literature, collecting the different data, processing all of the countries' data, using the data mining tool to analyze the data, and then making the final reports for summarize this data. The rest of the article then provides an in-depth explanation of the research process, which are then mentioned in their result breakdown. The specific numbers that were inputted for their data mining tools are also presented, which gives readers insight into how one could realistically replicate their results for verification purposes.
 
 ---
-(Did you remember to add your name and GitHub account name and date to the top of this document?)
