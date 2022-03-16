@@ -2,6 +2,8 @@
 title: "Literature Analysis"
 date: 2022-03-15T22:36:49-04:00
 draft: false
+pin: true
+summary: "Analysis of Different Articles"
 ---
 
 # Summary
