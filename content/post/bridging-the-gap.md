@@ -9,7 +9,7 @@ summary: "Closing the Research Gap"
 # Table of Contents
 
 1. [Summary](#summary)
-2. [Introductorary Responses](#detailed-responses)
+2. [Introductory Responses](#detailed-responses)
 3. [Reference Articles](#reference-articles)
 
 ---
